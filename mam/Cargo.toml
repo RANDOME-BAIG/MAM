@@ -8,26 +8,26 @@ keywords = ["no_std"]
 iota-pascal = { path = "../pascal" }
 
 [dependencies.iota-merkle]
-git = "https://github.com/iotaledger/iota.rs"
+git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 
 [dependencies.iota-curl]
-git = "https://github.com/iotaledger/iota.rs"
+git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 
 [dependencies.iota-sign]
-git = "https://github.com/iotaledger/iota.rs"
+git = https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 
 [dependencies.iota-tmath]
-git = "https://github.com/iotaledger/iota.rs"
+git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 
 [dependencies.iota-trytes]
-git = "https://github.com/iotaledger/iota.rs"
+git = "hhttps://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 
 [dev-dependencies.iota-trytes]
-git = "https://github.com/iotaledger/iota.rs"
+git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 features = ["alloc"]
 
 [dev-dependencies.iota-curl-cpu]
-git = "https://github.com/iotaledger/iota.rs"
+git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 
 
 [features]
