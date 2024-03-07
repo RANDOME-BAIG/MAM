@@ -20,7 +20,7 @@ git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 
 [dependencies.iota-trytes]
-git = "hhttps://github.com/RANDOME-BAIG/iota.legacy.rs.git"
+git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 
 [dev-dependencies.iota-trytes]
 git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
