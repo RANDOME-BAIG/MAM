@@ -5,7 +5,7 @@ authors = ["Andreas C. Osowski <andreas@osowski.de>", "Paul D Handy <paul.d.hand
 keywords = ["no_std"]
 
 [dependencies.iota-trytes]
-git = "https://github.com/iotaledger/iota.rs"
+git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 
 [features]
 default = [ ]
