@@ -14,7 +14,7 @@ git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 
 [dependencies.iota-sign]
-git = https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
+git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
 
 [dependencies.iota-tmath]
 git = "https://github.com/RANDOME-BAIG/iota.legacy.rs.git"
